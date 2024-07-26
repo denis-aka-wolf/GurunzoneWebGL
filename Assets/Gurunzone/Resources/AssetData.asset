@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3aad97ef5f61c14fb720bd7c4ae9c9a, type: 3}
+  m_Name: AssetData
+  m_EditorClassIdentifier: 
+  ui_canvas: {fileID: 6354597155202669989, guid: 85d514d74c84a214f9c2d3d1419bfd15,
+    type: 3}
+  audio_manager: {fileID: 8383441127956820474, guid: b01a0f4761059d04e81fc2c9ff73783e,
+    type: 3}
+  zone_prefab: {fileID: 3717709184726740706, guid: a683fe53445d416429eb17c4a621a480,
+    type: 3}
+  selection_fx: {fileID: 4931780171648058373, guid: 7902d9fdca7af34498684a0379d42acc,
+    type: 3}
+  selection_circle: {fileID: 8561688146191377127, guid: 2aa7dc870785a9c48a68d9b9e60a39c3,
+    type: 3}
+  float_number: {fileID: 6418988562381371810, guid: 06df2aa2ccba6ef42834080463271a15,
+    type: 3}

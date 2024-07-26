@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: aa4efdd91d5042b43aee35c387b16173
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -2699964415729943469
+    second: TAI_Fish_01_Swimming
+  - first:
+      74: 6868870126514514195
+    second: RIG_Fish_01|Box9664|Take 001|BaseLayer
+  - first:
+      74: 192885504260196505
+    second: RIG_Fish_01|Box9665|Take 001|BaseLayer
+  - first:
+      74: -5585018597216841676
+    second: RIG_Fish_01|Cylinder056|Take 001|BaseLayer
+  - first:
+      74: -8426971906044636677
+    second: RIG_Fish_01|Cylinder057|Take 001|BaseLayer
+  - first:
+      74: -8305706296535183249
+    second: RIG_Fish_01|Cylinder058|Take 001|BaseLayer
+  - first:
+      74: -6951702785483957521
+    second: RIG_Fish_01|Cylinder059|Take 001|BaseLayer
+  - first:
+      74: -8592133540562843670
+    second: RIG_Fish_01|Cylinder060|Take 001|BaseLayer
+  - first:
+      74: -585768871339668791
+    second: RIG_Fish_01|Cylinder061|Take 001|BaseLayer
+  - first:
+      74: -7751643958579868832
+    second: RIG_Fish_01|datepalm01_0|Take 001|BaseLayer
+  - first:
+      74: 2607433106543395158
+    second: RIG_Fish_01|datepalm01_1|Take 001|BaseLayer
+  - first:
+      74: -185026230594845719
+    second: RIG_Fish_01|datepalm01_2|Take 001|BaseLayer
+  - first:
+      74: -6308329288797719112
+    second: RIG_Fish_01|datepalm02_3|Take 001|BaseLayer
+  - first:
+      74: -8984049915299915282
+    second: RIG_Fish_01|datepalm02_4|Take 001|BaseLayer
+  - first:
+      74: -7073846356578540366
+    second: RIG_Fish_01|sub157|Take 001|BaseLayer
+  - first:
+      74: -4959227813669478738
+    second: RIG_Fish_01|sub159|Take 001|BaseLayer
+  - first:
+      74: -6820214158330328786
+    second: RIG_Fish_01|TAI_Bottle_01A|Take 001|BaseLayer
+  - first:
+      74: 6332549021990863356
+    second: RIG_Fish_01|TAI_Fish_01_Swimming
+  - first:
+      74: -4771487745828642332
+    second: RIG_Fish_01|TFP_Combine_01A|Take 001|BaseLayer
+  - first:
+      74: -6917515372925594259
+    second: RIG_Fish_01|TFP_Fence_04A_Module_1_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3411840158248259013
+    second: RIG_Fish_01|TFP_Fence_04A_Module_1_LOD1|Take 001|BaseLayer
+  - first:
+      74: 369419320586073265
+    second: RIG_Fish_01|TFP_House_01A_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -8796169631201115145
+    second: RIG_Fish_01|TFP_House_01A_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: 4856050179836390568
+    second: RIG_Fish_01|TFP_House_01B_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -4304084991988129715
+    second: RIG_Fish_01|TFP_House_01B_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: 7653818009148387181
+    second: RIG_Fish_01|TFP_Metal_Produce_Stand_01A|Take 001|BaseLayer
+  - first:
+      74: 6042928600567486246
+    second: RIG_Fish_01|TFP_Metal_Produce_Stand_02A|Take 001|BaseLayer
+  - first:
+      74: -3389259962479020434
+    second: RIG_Fish_01|TFP_Wooden_Table_01A|Take 001|BaseLayer
+  - first:
+      74: 6205487493386746070
+    second: TAI_Bottle_01A|Box9664|Take 001|BaseLayer
+  - first:
+      74: -997490627713641914
+    second: TAI_Bottle_01A|Box9665|Take 001|BaseLayer
+  - first:
+      74: 6310673043482242802
+    second: TAI_Bottle_01A|Cylinder056|Take 001|BaseLayer
+  - first:
+      74: -2946725760867668627
+    second: TAI_Bottle_01A|Cylinder057|Take 001|BaseLayer
+  - first:
+      74: -5974336642880472961
+    second: TAI_Bottle_01A|Cylinder058|Take 001|BaseLayer
+  - first:
+      74: 6547024508528919218
+    second: TAI_Bottle_01A|Cylinder059|Take 001|BaseLayer
+  - first:
+      74: 2403198834537968333
+    second: TAI_Bottle_01A|Cylinder060|Take 001|BaseLayer
+  - first:
+      74: 1470089017672704572
+    second: TAI_Bottle_01A|Cylinder061|Take 001|BaseLayer
+  - first:
+      74: -8326673327332236192
+    second: TAI_Bottle_01A|datepalm01_0|Take 001|BaseLayer
+  - first:
+      74: 1280057748435325923
+    second: TAI_Bottle_01A|datepalm01_1|Take 001|BaseLayer
+  - first:
+      74: 8586861587193600013
+    second: TAI_Bottle_01A|datepalm01_2|Take 001|BaseLayer
+  - first:
+      74: -7228890520709414222
+    second: TAI_Bottle_01A|datepalm02_3|Take 001|BaseLayer
+  - first:
+      74: 9023479529812613068
+    second: TAI_Bottle_01A|datepalm02_4|Take 001|BaseLayer
+  - first:
+      74: -1891725304153590487
+    second: TAI_Bottle_01A|sub157|Take 001|BaseLayer
+  - first:
+      74: 4521027227427169203
+    second: TAI_Bottle_01A|sub159|Take 001|BaseLayer
+  - first:
+      74: 845875641810458103
+    second: TAI_Bottle_01A|TAI_Bottle_01A|Take 001|BaseLayer
+  - first:
+      74: -7503357704189610312
+    second: TAI_Bottle_01A|TFP_Combine_01A|Take 001|BaseLayer
+  - first:
+      74: -1108306708811743283
+    second: TAI_Bottle_01A|TFP_Fence_04A_Module_1_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2582001005205574252
+    second: TAI_Bottle_01A|TFP_Fence_04A_Module_1_LOD1|Take 001|BaseLayer
+  - first:
+      74: 8653401224777673576
+    second: TAI_Bottle_01A|TFP_House_01A_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -844860926291074429
+    second: TAI_Bottle_01A|TFP_House_01A_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6336660016042572544
+    second: TAI_Bottle_01A|TFP_House_01B_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -2857244039298591142
+    second: TAI_Bottle_01A|TFP_House_01B_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: -7451324543613194081
+    second: TAI_Bottle_01A|TFP_Metal_Produce_Stand_01A|Take 001|BaseLayer
+  - first:
+      74: 7081503521106847262
+    second: TAI_Bottle_01A|TFP_Metal_Produce_Stand_02A|Take 001|BaseLayer
+  - first:
+      74: 7724214941722406861
+    second: TAI_Bottle_01A|TFP_Wooden_Table_01A|Take 001|BaseLayer
+  - first:
+      74: -5457196238158329599
+    second: Skeleton_Armature|Box9664|Take 001|BaseLayer
+  - first:
+      74: -1708015915051164542
+    second: Skeleton_Armature|Box9665|Take 001|BaseLayer
+  - first:
+      74: -7516447997022061165
+    second: Skeleton_Armature|Cylinder056|Take 001|BaseLayer
+  - first:
+      74: -8623464358304571158
+    second: Skeleton_Armature|Cylinder057|Take 001|BaseLayer
+  - first:
+      74: 3456484809683901139
+    second: Skeleton_Armature|Cylinder058|Take 001|BaseLayer
+  - first:
+      74: 7635585795300507345
+    second: Skeleton_Armature|Cylinder059|Take 001|BaseLayer
+  - first:
+      74: -490530678150923372
+    second: Skeleton_Armature|Cylinder060|Take 001|BaseLayer
+  - first:
+      74: -7223403829979364375
+    second: Skeleton_Armature|Cylinder061|Take 001|BaseLayer
+  - first:
+      74: 5478607563226897524
+    second: Skeleton_Armature|datepalm01_0|Take 001|BaseLayer
+  - first:
+      74: -1558518832300382193
+    second: Skeleton_Armature|datepalm01_1|Take 001|BaseLayer
+  - first:
+      74: 8291916212583233025
+    second: Skeleton_Armature|datepalm01_2|Take 001|BaseLayer
+  - first:
+      74: -6279976520827054849
+    second: Skeleton_Armature|datepalm02_3|Take 001|BaseLayer
+  - first:
+      74: -7886593796591929036
+    second: Skeleton_Armature|datepalm02_4|Take 001|BaseLayer
+  - first:
+      74: 2995538268529672212
+    second: Skeleton_Armature|sub157|Take 001|BaseLayer
+  - first:
+      74: -350160110797551137
+    second: Skeleton_Armature|sub159|Take 001|BaseLayer
+  - first:
+      74: 3016061367156310350
+    second: Skeleton_Armature|TAI_Bottle_01A|Take 001|BaseLayer
+  - first:
+      74: -2858456478667106533
+    second: Skeleton_Armature|TFP_Combine_01A|Take 001|BaseLayer
+  - first:
+      74: -1148967276367314419
+    second: Skeleton_Armature|TFP_Fence_04A_Module_1_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5665411283891295756
+    second: Skeleton_Armature|TFP_Fence_04A_Module_1_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3496555705043495255
+    second: Skeleton_Armature|TFP_House_01A_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -8572929975850795979
+    second: Skeleton_Armature|TFP_House_01A_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: 8293479700025046611
+    second: Skeleton_Armature|TFP_House_01B_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7278954831317638269
+    second: Skeleton_Armature|TFP_House_01B_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3105351142916671406
+    second: Skeleton_Armature|TFP_Metal_Produce_Stand_01A|Take 001|BaseLayer
+  - first:
+      74: 4514971139249480336
+    second: Skeleton_Armature|TFP_Metal_Produce_Stand_02A|Take 001|BaseLayer
+  - first:
+      74: 6122381796344611936
+    second: Skeleton_Armature|TFP_Wooden_Table_01A|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAI_Atlas_1A
+    second: {fileID: 2100000, guid: c1f95dc40dd23d14cb069ff6f5aecfc5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.03125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

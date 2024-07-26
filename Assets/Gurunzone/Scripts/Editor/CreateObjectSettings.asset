@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d1beed8f070a6e469635cbc9fba9207, type: 3}
+  m_Name: CreateObjectSettings
+  m_EditorClassIdentifier: 
+  prefab_folder: ColonySimulator/Prefabs
+  prefab_equip_folder: ColonySimulator/Prefabs/Equip
+  items_folder: ColonySimulator/Resources/Items
+  constructions_folder: ColonySimulator/Resources/Constructions
+  outline: {fileID: 2100000, guid: 9d35ee1b42447b84d9f5f0c2eb094a6f, type: 2}
+  death_fx: {fileID: 1782698244953427790, guid: 062a8e41f5278c64396aa1f7dcdbd7f8,
+    type: 3}
+  craft_audio: {fileID: 8300000, guid: a959259a1dc64384291aa531cc0f73b1, type: 3}
+  build_audio: {fileID: 8300000, guid: 9dc750595ba1c9f40a56855b46944b70, type: 3}
+  build_fx: {fileID: 1782698244953427790, guid: 062a8e41f5278c64396aa1f7dcdbd7f8,
+    type: 3}

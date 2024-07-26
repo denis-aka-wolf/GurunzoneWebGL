@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8c58392629254478874cfe0831a433, type: 3}
+  m_Name: Logger
+  m_EditorClassIdentifier: 
+  id: builder
+  title: Builder
+  icon: {fileID: 21300000, guid: 0a64d0e2ce5f744ac96f3f9759991460, type: 3}
+  sort_order: 0
+  desc: 
+  prefab: {fileID: 0}
+  craftable: 0
+  craft_items: []
+  craft_items_groups: []
+  craft_requirements: []
+  craft_duration: 1
+  groups:
+  - {fileID: 0}
+  bonus: 24
+  bonus_value: 0.5
+  bonus_target: {fileID: 0}
+  grow_to: []
+  grow_time: 0
+  starting_levels:
+  - id: 
+    level: 0
+  - id: 
+    level: 0
+  skins:
+  - {fileID: 0}
+  - {fileID: 0}

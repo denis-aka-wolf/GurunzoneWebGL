@@ -1,0 +1,54 @@
+0. From the author:
+
+Hello, dear developer and thank you for purchasing this asset, this really means much to me. In this file I'll try to provide you with basic instructions on how to use it. Please, also join our Discord server https://discord.gg/pJSMYmctMK if you run in to trouble or 
+just to share stuff you create with this project! 
+I'll also wan't to emphasize that your honest review of this product is really crucial for me as it supports sales and brings motivation and energy to make more of such assets. 
+
+
+Documentation:
+
+
+IMPORTANT: For the demo purposes that I've used in youtube presentation, you will need to download Standard Assets package for this pack. Don't import full package, only ThirdPersonCharacter folder.
+
+---1. Contents---
+
+This pack contents variety of skeletal meshes. Modular character is divided in 5 slots:
+- Head (MAT_HEAD, MESH_HEAD)
+- Torso (MAT_TORSO, MESH_TORSO)
+- Hands (MAT_HANDS, MESH_HANDS)
+- Pants (MAT_PANTS, MESH_PANTS)
+- Boots (MAT_BOOTS, MESH_ BOOTS)
+Additionaly, head accessories are avaliable in forms of Hats (MAT_HAT, MESH_HAT)
+
+---2. Naming conventions---
+
+Prefixes
+<TEX...> - Texture
+<MAT_#...> - Material and variation number
+<MESH...> - Model
+Suffixes: 
+<...D_#> - Diffuse and variation number
+<...N> - Normal map
+<...AO> - Occlusion map
+<...E> - Emissive map
+<...M> - Metalness map
+
+---3. Usage--- 
+
+This asset uses PBR materials withtin URP Render pipeline. It's ready to use with Humanoid rig based
+on Ethan character that comes with Unity Standard Assets from the Asset Store or other humanoid rigs. 
+
+To create your custom character drag model prefab "RA_STYLIZED_CHARACTER" into the scene.
+You can find it under Assets -> Prefabs -> Combined directory.
+Find newly created prefab in Hierarchy and right-click -> Prefab -> Unpack. Delete the parts you don't 
+want on your character. 
+
+---4. Video manual---
+
+Please refer to my video demo to have an idea on how I use it to make variable characters with the male pack: 
+
+https://youtu.be/rGgGT5fXnig
+
+---5. Additional packages in this project---
+
+Standard Assets, Universal RP

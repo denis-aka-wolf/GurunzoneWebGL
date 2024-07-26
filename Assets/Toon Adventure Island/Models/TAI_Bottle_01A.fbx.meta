@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: da12a608f64c71b46b12fe2d196ce06f
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: 6205487493386746070
+    second: TAI_Bottle_01A|Box9664|Take 001|BaseLayer
+  - first:
+      74: -997490627713641914
+    second: TAI_Bottle_01A|Box9665|Take 001|BaseLayer
+  - first:
+      74: 6310673043482242802
+    second: TAI_Bottle_01A|Cylinder056|Take 001|BaseLayer
+  - first:
+      74: -2946725760867668627
+    second: TAI_Bottle_01A|Cylinder057|Take 001|BaseLayer
+  - first:
+      74: -5974336642880472961
+    second: TAI_Bottle_01A|Cylinder058|Take 001|BaseLayer
+  - first:
+      74: 6547024508528919218
+    second: TAI_Bottle_01A|Cylinder059|Take 001|BaseLayer
+  - first:
+      74: 2403198834537968333
+    second: TAI_Bottle_01A|Cylinder060|Take 001|BaseLayer
+  - first:
+      74: 1470089017672704572
+    second: TAI_Bottle_01A|Cylinder061|Take 001|BaseLayer
+  - first:
+      74: -8326673327332236192
+    second: TAI_Bottle_01A|datepalm01_0|Take 001|BaseLayer
+  - first:
+      74: 1280057748435325923
+    second: TAI_Bottle_01A|datepalm01_1|Take 001|BaseLayer
+  - first:
+      74: 8586861587193600013
+    second: TAI_Bottle_01A|datepalm01_2|Take 001|BaseLayer
+  - first:
+      74: -7228890520709414222
+    second: TAI_Bottle_01A|datepalm02_3|Take 001|BaseLayer
+  - first:
+      74: 9023479529812613068
+    second: TAI_Bottle_01A|datepalm02_4|Take 001|BaseLayer
+  - first:
+      74: -1891725304153590487
+    second: TAI_Bottle_01A|sub157|Take 001|BaseLayer
+  - first:
+      74: 4521027227427169203
+    second: TAI_Bottle_01A|sub159|Take 001|BaseLayer
+  - first:
+      74: 845875641810458103
+    second: TAI_Bottle_01A|TAI_Bottle_01A|Take 001|BaseLayer
+  - first:
+      74: -7503357704189610312
+    second: TAI_Bottle_01A|TFP_Combine_01A|Take 001|BaseLayer
+  - first:
+      74: -1108306708811743283
+    second: TAI_Bottle_01A|TFP_Fence_04A_Module_1_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2582001005205574252
+    second: TAI_Bottle_01A|TFP_Fence_04A_Module_1_LOD1|Take 001|BaseLayer
+  - first:
+      74: 8653401224777673576
+    second: TAI_Bottle_01A|TFP_House_01A_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -844860926291074429
+    second: TAI_Bottle_01A|TFP_House_01A_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6336660016042572544
+    second: TAI_Bottle_01A|TFP_House_01B_Roof_Tall_5_LOD0|Take 001|BaseLayer
+  - first:
+      74: -2857244039298591142
+    second: TAI_Bottle_01A|TFP_House_01B_Roof_Tall_5_LOD1|Take 001|BaseLayer
+  - first:
+      74: -7451324543613194081
+    second: TAI_Bottle_01A|TFP_Metal_Produce_Stand_01A|Take 001|BaseLayer
+  - first:
+      74: 7081503521106847262
+    second: TAI_Bottle_01A|TFP_Metal_Produce_Stand_02A|Take 001|BaseLayer
+  - first:
+      74: 7724214941722406861
+    second: TAI_Bottle_01A|TFP_Wooden_Table_01A|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAI_Atlas_1A
+    second: {fileID: 2100000, guid: c1f95dc40dd23d14cb069ff6f5aecfc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAI_Glass_1A
+    second: {fileID: 2100000, guid: c2fee4784d95aa04bb29a83a424e7720, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
